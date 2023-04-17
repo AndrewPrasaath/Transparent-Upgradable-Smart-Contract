@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.8;
 
-contract Box {
+contract BoxV2 {
     uint256 internal s_value;
 
     event ValueChanged(uint256 _value);
